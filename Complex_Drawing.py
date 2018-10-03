@@ -4,6 +4,7 @@
 Created on Wed Oct  3 11:34:52 2018
 
 @author: guycaldwell
+@email: guyca@ggs.vic.edu.au
 """
 
 import cv2
